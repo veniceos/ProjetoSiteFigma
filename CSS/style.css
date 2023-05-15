@@ -9,6 +9,23 @@ height: 1024px;
 background: radial-gradient(113.77% 113.77% at 50% 50%, rgba(255, 252, 230, 0.64) 0%, rgba(251, 186, 2, 0.99625) 0.01%, rgba(255, 252, 230, 0.64) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
 }
 
+h1{
+    font-size: 90px;
+}
+
+.txt{
+font-family: "Island Moments", sans-serif;
+text-align: right;
+margin-right: 400px;
+font-size: 40px;
+font-weight: bold;
+}
+.match{
+text-align: center;
+font-size: 90px;
+margin-top: 180px;
+}
+
 .site{
 width: 100%;
 margin: 0 auto;
@@ -122,6 +139,13 @@ background-color: #FFE498;
 max-width: 300px;
 padding-left: 100px;
 padding-right: 100px;
+text-decoration: none;
+border-radius: 10px;
+}
+
+.select:hover{
+    font-size: 40px;
+    transition: 0.500s;
 }
 
 table {
