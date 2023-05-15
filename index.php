@@ -11,19 +11,25 @@
 <body>
 <div class='site'>
 <header>
-    <div class='cbc'>
+    
+<div>
     <p class='ttl'>
     Old Millionaires
 </p>
     <p class='ttl1'>
         De todas as idades e patrimônios
     </p>
-    <img src='Fotos/tio-patinhas-origem-curiosidades-e-licoes-do-pato-mais-rico-da-ficcao-e1610500057428.jpg'>
-    </img>
-    <a class='btao' href=''>Contato</a>
-    <a class='btao' href=''>Menu</a>
-    <a class='btao' href=''>Gênero</a>
+    <br>
+    <a class='btao' href='contato.php'>Contato</a>
+    <a class='btao' href='index.php'>Menu</a>
+    <a class='btao' href='serviços.php'>Gênero</a>
+
 </div>
+<div class="rgt">
+<img src='Fotos/tio-patinhas-origem-curiosidades-e-licoes-do-pato-mais-rico-da-ficcao-e1610500057428.jpg' class='ft'>
+</div>
+    </img>
+</table>
 </header>
 <section>
 </section>
