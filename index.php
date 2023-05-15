@@ -26,12 +26,14 @@
 
 </div>
 <div class="rgt">
-<img src='Fotos/tio-patinhas-origem-curiosidades-e-licoes-do-pato-mais-rico-da-ficcao-e1610500057428.jpg' class='ft'>
+<img src='Fotos/tio-patinhas-origem-curiosidades-e-licoes-do-pato-mais-rico-da-ficcao-e1610500057428.jpg' class='ft'></img>
 </div>
-    </img>
-</table>
 </header>
 <section>
+
+    <div class="container">
+    <img src="" class=""><p class="ttl1"></img>
+</div>
 </section>
 
 </div>
