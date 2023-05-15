@@ -81,3 +81,19 @@ width: 684px;
 height: 220px;
 margin-right: -100px;
 }
+
+.container{
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+
+
+    .ttlft{
+        font-size: 20px;
+    }
