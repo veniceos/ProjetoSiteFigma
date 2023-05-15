@@ -1,0 +1,206 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v17_2 {
+  width: 100%;
+  height: 1024px;
+  background: url("../images/v17_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_2 {
+  width: 100%;
+  height: 1024px;
+  background: none;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_3 {
+  width: 626px;
+  height: 167px;
+  background: linear-gradient(rgba(251,186,1,0.25999999046325684), rgba(255,188,0,0));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_4 {
+  width: 493px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 18px;
+  left: 34px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_6 {
+  width: 422px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 90px;
+  left: 141px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_7 {
+  width: 814px;
+  height: 217px;
+  background: url("../images/v7_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 626px;
+  overflow: hidden;
+}
+.v7_9 {
+  width: 684px;
+  height: 461px;
+  background: rgba(195,154,49,1);
+  opacity: 1;
+  position: absolute;
+  top: 375px;
+  left: 378px;
+  border-top-left-radius: 41px;
+  border-top-right-radius: 41px;
+  border-bottom-left-radius: 41px;
+  border-bottom-right-radius: 41px;
+  overflow: visible;
+}
+.v7_14 {
+  width: 425px;
+  height: 47px;
+  background: rgba(255,239,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 465px;
+  left: 507px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+.v7_15 {
+  width: 425px;
+  height: 47px;
+  background: rgba(255,239,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 538px;
+  left: 508px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: visible;
+}
+.v7_10 {
+  width: 420px;
+  color: rgba(0,0,0,1);
+  top: 200px;
+  left: 807px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+  margin-bottom: 200px;
+  margin-top: 290px;
+  margin-left: 300px;
+  overflow: hidden;
+  position: absolute;
+}
+.v7_16 {
+  width: 288px;
+  height: 47px;
+  background: rgba(255,239,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 683px;
+  left: 576px;
+}
+
+.v7_11 {
+  width: 420px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 538px;
+  left: 527px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v7_11_2 {
+  width: 420px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 300px;
+  left: 527px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.v7_12 {
+  width: 420px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 683px;
+  left: 508px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v7_13 {
+  width: 427px;
+  height: 54px;
+  background: url("../images/v7_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 473px;
+  left: 501px;
+  overflow: hidden;
+}
+.v7_18 {
+  width: 332px;
+  color: rgba(30,30,30,1);
+  position: absolute;
+  top: 375px;
+  left: 557px;
+  font-family: Island Moments;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
