@@ -1,0 +1,65 @@
+body{
+margin: 0;
+padding: 0;
+font-family: "Island Moments", sans-serif;
+box-sizing: border-box;
+position: relative;
+width: 1440px;
+height: 1024px;
+background: radial-gradient(113.77% 113.77% at 50% 50%, rgba(255, 252, 230, 0.64) 0%, rgba(251, 186, 2, 0.99625) 0.01%, rgba(255, 252, 230, 0.64) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}
+
+.site{
+width: 100%;
+margin: 0 auto;
+display: grid;
+grid-template-columns: 100%;
+grid-template-rows: 150px 585px;
+grid-template-areas: "cabecalho"
+"produtos"
+;
+}
+
+header{
+grid-area: cabecalho;
+}
+
+section{
+grid-area: produtos;
+}
+
+.ttl{
+position: absolute;
+width: 552px;
+height: 97px;
+left: 30px;
+top: 19px;
+font-family: 'Island Moments';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 110px;
+color: #000000;
+}
+
+.ttl1{
+position: absolute;
+width: 445px;
+height: 79px;
+left: 146px;
+top: 91px;
+font-family: 'Island Moments';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 55px;
+color: #000000;
+}
+
+.cbc{
+display: flex;
+}
+
+.ft{
+justify-content: right;
+}
