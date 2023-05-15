@@ -3,6 +3,8 @@
 }
 body {
   font-size: 14px;
+  background: radial-gradient(113.77% 113.77% at 50% 50%, rgba(255, 252, 230, 0.64) 0%, rgba(251, 186, 2, 0.99625) 0.01%, rgba(255, 252, 230, 0.64) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  ;
 }
 .v17_2 {
   width: 100%;
@@ -30,7 +32,8 @@ body {
 .v7_3 {
   width: 626px;
   height: 167px;
-  background: linear-gradient(rgba(251,186,1,0.25999999046325684), rgba(255,188,0,0));
+  background: radial-gradient(113.77% 113.77% at 50% 50%, rgba(255, 252, 230, 0.64) 0%, rgba(251, 186, 2, 0.99625) 0.01%, rgba(255, 252, 230, 0.64) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
   opacity: 1;
   position: relative;
   top: 0px;
