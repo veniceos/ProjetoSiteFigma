@@ -29,13 +29,39 @@
 <img src='Fotos/tio-patinhas-origem-curiosidades-e-licoes-do-pato-mais-rico-da-ficcao-e1610500057428.jpg' class='ft'></img>
 </div>
 </header>
-<section>
 
+<section><br><br>
+
+<p class="ttlft">Prévia</p>
+    <div class="dispf">
     <div class="container">
-    <img src="" class=""><p class="ttl1"></img>
+    <img src="Fotos/Silvio_Santos_em_maio_de_2019.jpg" class="fto">
+    <br>Nome Completo: Senor Abravanel<br>Fortuna: R$ 1.7b<br>
+    <a href="" class="select">Selec</a>
 </div>
+
+<div class="container">
+    <img src="Fotos/1200px-Roberto_Carlos_Credicard_Hall_(42626066250).jpg" class="fto">
+    <br>Nome Completo: Roberto Carlos Braga<br>Fortuna: U$ 200m <br>
+    <a href="" class="select">Selec</a>
+</div>
+
+<div class="container">
+    <img src="Fotos/Faustão_2015.png" class="fto">
+    <br>Nome Completo: Fausto Correia da Silva<br>Fortuna: R$ 1.1b<br>
+    <a href="" class="select">Selec</a>
+</div>
+
+<div class="container">
+    <img src="Fotos/2010-08-08_Leonardo_na_Expo_FISAV_04.jpg" class="fto">
+    <br>Nome Completo: Emiral Eterno da Costa<br>Fortuna: R$ 180m<br>
+    <a href="" class="select">Selec</a>
+</div>
+</div>
+<br>
+<center><a class="more" href="serviço.php">Mais serviços</a></center>
 </section>
 
-</div>
+
 </body>
 </html>

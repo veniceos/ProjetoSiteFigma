@@ -83,17 +83,64 @@ margin-right: -100px;
 }
 
 .container{
-    display: flex;
-    justify-content: center;
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: aqua;
+display: block;
+justify-content: center;
+max-width: 300px;
+height: 500px;
+margin: 0 auto;
+padding: 20px;
+border-radius: 10px;
+background-color: rgba(251, 186, 2, 0.99625);
+font-size: 36px;
+text-align: center;
+margin-left: 65px;
 }
 
+.fto{
+width: 200px;
+}
 
+.ttlft{
+font-size: 90px;
+text-align: center;
+}
 
-    .ttlft{
-        font-size: 20px;
-    }
+.select{
+background-color: #FFE498;
+max-width: 300px;
+padding-left: 100px;
+padding-right: 100px;
+}
+
+table {
+width: 100%;
+height: 500px;
+text-align: center;
+}
+
+.tbl{
+text-align: center;
+margin: 55px;
+margin-right: -35px;
+margin-top: 150px;
+}
+
+.imgsilvio{
+margin-top: -10%;
+}
+
+.more{
+text-decoration: none;
+font-size: 40px;
+}
+
+.dispf{
+display: inline-flex;
+text-align: center;
+}
+
+section{
+justify-content: center;
+align-items: center;
+text-align: center;
+}
